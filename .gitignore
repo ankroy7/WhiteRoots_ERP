@@ -1,0 +1,24 @@
+# Java
+*.class
+*.jar
+*.war
+*.ear
+*.db
+*.log
+
+# Maven
+**/target/
+**/pom.xml.tag
+**/pom.xml.~
+**/dependency-reduced-pom.xml
+**/pom.properties
+**/pom.xml.backup
+
+# IDE
+.idea/
+*.iml
+*.ipr
+*.iws
+.DS_Store
+*~
+*.swp
