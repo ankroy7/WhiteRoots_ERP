@@ -1,0 +1,7 @@
+# React Application
+
+# Node modules
+node_modules/
+
+# Build artifacts
+build/
